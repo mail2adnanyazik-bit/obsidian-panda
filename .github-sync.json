@@ -3,7 +3,7 @@
   "remote": "https://github.com/mail2adnanyazik-bit/obsidian-panda.git",
   "branch": "main",
   "sync": {
-    "autoIntervalMin": 30,
+    "autoIntervalMin": 5,
     "ignorePatterns": [
       ".DS_Store",
       ".trash/**",
