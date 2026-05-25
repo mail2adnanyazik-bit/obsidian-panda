@@ -1,0 +1,6 @@
+  - [x] Get inspiration from yt Shorts - Liquid Glass
+- [x] Check criteria on the Info page we got from Frau Nixdorf
+- [x] Start with a nice clean title page, good animations.
+- [ ] List what Resources we used - What AI, model, prompt, etc. - Include Elevenlabs, Canva, *maybe* Davinci Resolve, and Claude with prompts
+- [ ] Explain Inspiration for [[pragmata-script]] and company name
+- [ ] Upload to Lernraum with [[End Product]]
