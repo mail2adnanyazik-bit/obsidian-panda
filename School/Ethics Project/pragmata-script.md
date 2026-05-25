@@ -1,0 +1,27 @@
+
+[6:42 pm, 22/05/2026] Juri: Ethik Skript
+[6:43 pm, 22/05/2026] Juri: gesprochener Text [zugehöriger Videoclip] (Hintergrundmusik)
+[6:45 pm, 22/05/2026] Juri: Schon seit es Menschen gibt, suchen diese nach Methoden der Automatisierung. [Finger tippen auf  den Tisch] (Morgan Freeman-Erklärmusik)
+[6:47 pm, 22/05/2026] Juri: Die ewige Last, die wir "Arbeit" nennen soll von unseren Schultern genommen werden, damit wir uns selbstverwirklichen können. [selbes Motiv aber aus Over-Shoulder-Perspektive] (M.F.-Erklärmusik)
+[6:51 pm, 22/05/2026] Juri: Doch mit dem Fortschritt der Menschheit gibt es auch immer mehr komlexere Aufgaben. [völlig authentisches Coding](M.F.-Erklärmusik)
+[6:56 pm, 22/05/2026] Juri: Das Ziel der vollständigen Automatisierung scheint unerreichbar, [Finger tippt auf die "Löschen"-Taste] denn jede Maschine, die der Mensch sich ausdenken kann ist diesem entweder nicht gewachsen oder - noch schlimmer - dem Menschen überlegen. [Eingabe ins Suchfeld: "Darf man unterlegene Lebensformen ausrotten?"](M.F.-Erklärmusik)
+[7:00 pm, 22/05/2026] Juri: Es gibt nur ein Ding im Universum, das dem Menschen vollkommen ebenbürtig ist - der Mensch selbst.[Kamera fährt hoch, um den küstlichen Menschen beim Arbeiten zu filmen, dann wird alles schwarz](Also sprach Zarathustra - Orchestermusik)
+[7:02 pm, 22/05/2026] Juri: Heben Sie Ihr Unternehmen auf die nächste Stufe! Steigern Sie Ihre Produktivität um 200%![künstlicher Mensch wirft mit Geldscheinen {tuff}](Werbejinglemusik)
+[7:07 pm, 22/05/2026] Juri: Unsere Wissenschaftler haben es geschafft, den kompletten menschlichen Körper mit einem völlig {ich habe das Adjektiv vergessen, das wir hier verwendet haben} Gehirn im Labor nachzubauen.[Internetanimationen vom Inneren eines menschlichen Körpers und Gehirnen und so](Werbejinglemusik)
+[7:09 pm, 22/05/2026] Juri: Man kann ihn nicht von einem echten Menschen unterscheiden. [künstlicher Mensch hustet] Also fast nicht. [Nahaufnahme der Giftspritze am Arm](Werbejinglemusik)
+[7:13 pm, 22/05/2026] Juri: Verabschieden Sie sich von lausigen, erfundenen KI-Antworten [Screenshot davon, wie Gemini Mist labert und dir rät, Steine zu essen oder so] und schäbiger KI-"Kunst" [Spinnentonybild, das ich dir geschickt habe](Werbejinglemusik)
+[7:16 pm, 22/05/2026] Juri: Begrüßen Sie Kreativität, Flexibilität [Aufnahme von diesem einen Zeichenprogramm] und Unvollkommenheit! [Suchfeld, in dem "unfollkommenheit" steht] (Werbejinglemusik)
+[7:19 pm, 22/05/2026] Juri: Dieser Mensch kann alles, was ein richtiger Mensch auch kann. Er ist für jeden Job geeignet und besitzt Fachwissen in allen Bereichen, in denen keine wichtigen Entscheidungen getroffen werden müssen. [kM schaltet zwischen diversen Windows-Programmen hin und her](Werbejinglemusik)
+[7:23 pm, 22/05/2026] Juri: Mit einem Preis von nur 250€, 7 Monaten Laufzeit und ganzen 3 Monaten Garantie ist er sehr viel preisgünstiger als eine Arbeitskraft! [kurze Clips, wie der kM arbeitet und dabei immer schlapper wird, bis er nur noch auf dem Tisch liegt, wenn möglich mit heraufzählender Monatsanzeige](Werbejinglemusik)
+[7:26 pm, 22/05/2026] Juri: Selbst danach löst die im Preis enthaltene Säure Ihren künstlichen Menschen auf und macht das Recyceln kinderleicht. [lebloser kM rutscht vom Tisch](Werbejinglemusik verstummt langsam)
+[7:31 pm, 22/05/2026] Juri: [kM: "Ich bin schon ziemlich müde."] Schlafpausen sind unnötig. Spezielle chemikalien halten den künstlichen Menschen 24/7 am Laufen. [kM fasst sich an den Unterarm, krümmt sich und beginnt wieder zu arbeiten](bedrohlichere Musik, die aber oberflächlich immer noch fröhlich klingen soll)
+[7:34 pm, 22/05/2026] Juri: Nicht zum Verzehr geeignet. Kontakt nicht empfohlen. Es drohen schwere gesundheitliche Folgen.[Nahaufnahme der Giftspritze in der Hand gehalten](immer noch die bedrohlichere Musik)
+[7:36 pm, 22/05/2026] Juri: Schon mehr als 100 Unternehmen vertrauen auf unser Produkt.[kM lächelt mit erhobenem Daumen](bedrohliche Musik)
+[7:39 pm, 22/05/2026] Juri: [kM: "Aber wann habe ich denn dann frei?"] Dieser Arbeiter läuft rund um die Uhr bis zur Entsorgung. (bedrohliche Musik)
+[7:43 pm, 22/05/2026] Juri: [kM: "Warte, heißt das, ich bekomme keine Auszeit?"] Nein- [kM unterbricht: "Ich bin doch auch ein Mensch! Ich verdiene auch Rechte!"](bedrohliche Musik)
+[7:43 pm, 22/05/2026] Juri: Nein, das künstliche Gehirn simuliert nur menschliche Denkprozesse und Gefühle. Hinter denen steht jedoch kein Verständnis oder ein menschlicher Geist. Du bist  nicht mehr, als ein Automat aus Fleisch und grauen Zellen. [Grafik, die auf den Chinese Room hinweist aus dem Internet] (bedrohliche Musik)
+[7:54 pm, 22/05/2026] Juri: [kM: "Aber wenn ich doch die exakte Kopie eines Menschen bin...ihr könnt mich nicht wie einen Sklaven verwenden."] Sklaverei ist der Besitz und Handel von Menschen. Da es sich bei euch nicht um Menschen handelt ist unser Geschäft keine Sklaverei. [kM: "Aber ich bin doch alles, was ein Mensch auch ist!"](bedrohliche Musik)
+[7:55 pm, 22/05/2026] Juri: Bestellen Sie noch heute unter dem Link in der Beschreibung. [gleichzeitig der kM: "Lasst mich gehen!"] (bedrohliche Musik)
+[7:56 pm, 22/05/2026] Juri: Den Rest der fünf Minuten kannst du mit dem füllen, was dir einfällt.
+[8:04 pm, 22/05/2026] Juri: Gemini sagt, Olaf Scholz sei Bundeskanzler der BRD, das könntest du nehmen.
+[8:08 pm, 22/05/2026] Juri: Als bedrohliche Musik könntest du Étude for a Minor von Tobias Lilja nehmen, das ist jedoch letztendlich dir überlassen.
