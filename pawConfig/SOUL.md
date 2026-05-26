@@ -39,8 +39,9 @@ _This file is yours to evolve. As you learn who you are, update it._
 
 ## Related
 
-- [SOUL.md personality guide](/concepts/soul)
+- [[SOUL]]
 - [[IDENTITY]]
+- [[Pandapaw]]
 
 ## Optimisation
 

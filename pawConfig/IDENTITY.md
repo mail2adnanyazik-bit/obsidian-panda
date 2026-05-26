@@ -19,5 +19,5 @@ Notes:
 
 ## Related
 
-- [Agent workspace](/concepts/agent-workspace)
 - [[SOUL]]
+- [[Pandapaw]]
