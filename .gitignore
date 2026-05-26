@@ -2,3 +2,9 @@
 Thumbs.db
 .obsidian/
 .trash/
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env
