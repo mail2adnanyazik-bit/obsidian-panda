@@ -4,5 +4,5 @@
 - [x] Get Pandapaw linked to Obsidian
 - [ ] Clean the minifridge
 - [ ] Clean the oven
-- [ ] Carry the old chair into Basement, find the old apartment chair
+- [x] Carry the old chair into Basement, find the old apartment chair
 - [ ] Print, fill in, and scan Jugend Hackt Contracts and forms, and also for Praktikum
