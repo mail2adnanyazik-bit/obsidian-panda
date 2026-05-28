@@ -11,4 +11,4 @@
 - [x] Start editing second half
 - [x] Finish editing second half
 - [x] Polish
-- [ ] Upload End Product, [[Presentation]] and Dokumentationsblatt to Lernraum
+- [x] Upload End Product, [[Presentation]] and Dokumentationsblatt to Lernraum
