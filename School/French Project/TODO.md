@@ -2,7 +2,8 @@
 [[End product (Video)]]
 
 - [x]  Write script
-- [ ]  Film the noodle shop, Juri, me, and Georgy, if needed take audio recordings too.
-- [ ] Edit the Video's into one complete short video [[Learn to edit]]
+- [x]  Film the noodle shop, Juri, me, and Georgy, if needed take audio recordings too.
+- [x] Edit the Video's into one complete short video [[Learn to edit]]
+- [ ] Add captions and title thingy for all chars
 - [ ] Upload to Lernraum
 
