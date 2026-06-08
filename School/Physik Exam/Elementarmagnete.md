@@ -10,3 +10,6 @@ Beim [[Dauermagneten und ihre Magnetfelder#Zerteilen eines Magneten]] entstehen 
 
 # Magnetisierung eines Magnetes mit einem Permanentmagnet
 
+Ein ferromagnetischer Metall kann durch vorbeistreichen mit einem Permanentmagnet magnetisiert werden, da sich die Elementarmagneten sich **anordnen**
+
+
