@@ -1,6 +1,10 @@
 
 Der Oerstedversuch soll zeigen, dass ein stromdurchflossener Leiter eine magnetische Wirkung hat - um den Leiter entsteht ein Magnetfeld. Dabei hängt das Magnetfeld von der Stärke des Stromflusses ab.
 
+# parallele stromdurchflossene Leiter :
+
+In gleicher Stromrichtung : ziehen sich an 
+
 # Lorentzkraft :
 
 Bewegen sich Ladungstrager senkrecht oder schräg zu einem Magnetfeld, so wirkt eine Lorentzkraft auf diese Ladungsträger.
