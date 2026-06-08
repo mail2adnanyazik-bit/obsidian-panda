@@ -26,3 +26,5 @@ Richtung der gekrümmten Finger -> Magnetfeldrichtung
 
 # Induktion
 
+Da bei der Bewegung eines Leiters in einem Magnetfeld auf die Ladungsträger eine [[#Lorentzkraft]] wirkt, werden die Ladungsträger nach unten bewegt. Dadurch kommt es zu einer Verschiebung der Ladungsschwerpunkte: Oben entsteht ein Überschuss an positiven Ladungen, unten ein Überschuss an negativen Ladungen. -> folgt zu einer Bewegung der Leiter -> Stromfluss !
+
