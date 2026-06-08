@@ -1,3 +1,4 @@
+- Dauerhafter Magnet
 - Nordpol  <-> rot 
 - Südpol <-> grün
 - Die Namen kommen davon, dass wenn ein Magnet frei drehbar ist der Nordpol des Magnetes sich zum geografischen Nordpol wendet - genauso der Südpol auch.

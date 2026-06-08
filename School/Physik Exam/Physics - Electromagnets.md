@@ -1,2 +1,2 @@
-- [[Dauermagneten und ihre Magnetfelder]]
+- [[Dauermagnet]]
 - 
