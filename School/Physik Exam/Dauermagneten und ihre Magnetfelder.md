@@ -11,5 +11,5 @@
 
 Beim zerteilen eines Magnets entstehen zwei neue Magneten mit jeweils einem neuen Süd bzw. Nordpol
 
-Dieser Vorgang ist unendlich - um dies zu veranschaulichen gibt es das Modell der [[]]
+Dieser Vorgang ist unendlich - um dies zu veranschaulichen gibt es das Modell der [[Elementarmagnete]]
 
