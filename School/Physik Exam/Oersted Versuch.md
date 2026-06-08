@@ -28,3 +28,11 @@ Richtung der gekrümmten Finger -> Magnetfeldrichtung
 
 Da bei der Bewegung eines Leiters in einem Magnetfeld auf die Ladungsträger eine [[#Lorentzkraft]] wirkt, werden die Ladungsträger nach unten bewegt. Dadurch kommt es zu einer Verschiebung der Ladungsschwerpunkte: Oben entsteht ein Überschuss an positiven Ladungen, unten ein Überschuss an negativen Ladungen. -> folgt zu einer Bewegung der Leiter -> Stromfluss !
 
+
+# Beispiel
+
+Als Beispiel : wenn in eine Spule ein Stabmagnet eingeführt wird
+
+![](https://www.leifiphysik.de/sites/default/files/2021/01/image/Regel_von_Lenz_Fall_1.svg)
+
+Dann entsteht durch das stören eines [[Dauermagnet#Magnetfelder]](es) eine [[#Lorentzkraft]], die dann [[#Induktion]] erzeugt. 
