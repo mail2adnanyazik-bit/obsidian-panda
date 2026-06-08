@@ -4,6 +4,7 @@ Der Oerstedversuch soll zeigen, dass ein stromdurchflossener Leiter eine magneti
 # parallele stromdurchflossene Leiter :
 
 In gleicher Stromrichtung : ziehen sich an 
+unterschiedliche Stromrichting : stoßen sich ab
 
 # Lorentzkraft :
 
@@ -15,6 +16,13 @@ Bewegen sich Ladungstrager senkrecht oder schräg zu einem Magnetfeld, so wirkt 
 # Drei Finger Regel
 
 Die Kraftrichtung kann mit der [[#Drei Finger Regel]] bestimmt werden. (FBI - F(Lorentzkraft - Mittelfinger), B(Magnetfeld - Zeigefinger), I (Stromrichtung - Daumen) / und oder Ursache/Vermittler/Wirkung.
+
+# Rechte Hand Regel
+
+Daumen - Stromrichtung 
+
+Richtung der gekrümmten Finger -> Magnetfeldrichtung
+
 
 
 
