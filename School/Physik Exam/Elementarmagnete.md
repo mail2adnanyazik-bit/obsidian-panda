@@ -20,5 +20,6 @@ Ein ferromagnetischer Metall kann durch vorbeistreichen mit einem Permanentmagne
 
 Dies ist der Gegenteil zur [[#Magnetisierung eines Magnetes mit einem Permanentmagnet]], und passiert durch die ==**Energiezufuhr**== , da sich die Ordnung der Elementarmagnete dann löst.
 
+# Magnetische Influenz
 
-Die beiden Phanömene 
+Die beiden Phanömene ([[#Magnetisierung eines Magnetes mit einem Permanentmagnet]] und [[#Entmagnetiserung eines mit einem Permanentmagneten magnetisiertem Metalles]] nennt man ==[**[#Magnetische Influenz]]**==)
