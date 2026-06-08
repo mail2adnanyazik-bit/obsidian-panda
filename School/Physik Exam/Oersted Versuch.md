@@ -13,3 +13,5 @@ Bewegen sich Ladungstrager senkrecht oder schräg zu einem Magnetfeld, so wirkt 
 Die Kraftrichtung kann mit der [[#Drei Finger Regel]] bestimmt werden. (FBI - F(Lorentzkraft - Mittelfinger), B(Magnetfeld - Zeigefinger), I (Stromrichtung - Daumen) / und oder Ursache/Vermittler/Wirkung.
 
 
+
+
