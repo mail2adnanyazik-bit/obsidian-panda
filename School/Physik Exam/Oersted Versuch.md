@@ -3,3 +3,12 @@ Der Oerstedversuch soll zeigen, dass ein stromdurchflossener Leiter eine magneti
 
 # Lorentzkraft :
 
+Bewegen sich Ladungstrager senkrecht oder schräg zu einem Magnetfeld, so wirkt eine Lorentzkraft auf diese Ladungsträger.
+
+![](https://www.leifiphysik.de/sites/default/files/2022/12/image/bewegte-ladungen-magnetfeld-hufeisen-leiterschaukel.svg)
+
+
+
+Die Kraftrichtung kann mit der Drei-Finger-Regel bestimmt werden. (FBI - F(Lorentzkraft - Mittelfinger), B(Magnetfeld - Zeigefinger), I (Stromrichtung - Daumen) / und oder Ursache/Vermittler/Wirkung
+
+
