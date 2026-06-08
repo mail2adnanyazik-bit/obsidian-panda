@@ -13,3 +13,12 @@ Beim [[Dauermagneten und ihre Magnetfelder#Zerteilen eines Magneten]] entstehen 
 Ein ferromagnetischer Metall kann durch vorbeistreichen mit einem Permanentmagnet magnetisiert werden, da sich die Elementarmagneten sich **anordnen**
 
 
+![[Pasted image 20260608193306.png]]
+
+
+# Entmagnetiserung eines mit einem Permanentmagneten magnetisiertem Metalles
+
+Dies ist der Gegenteil zur [[#Magnetisierung eines Magnetes mit einem Permanentmagnet]], und passiert durch die ==**Energiezufuhr**== , da sich die Ordnung der Elementarmagnete dann löst.
+
+
+Die beiden Phanömene 
