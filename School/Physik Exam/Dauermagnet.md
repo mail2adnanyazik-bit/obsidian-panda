@@ -25,4 +25,5 @@ Jeder Magnet (auch [[Dauermagnet]]) hat ein **Magnetfeld**, der quasi sein Wirku
 Eigenschaften magnetischer Feldlinien :
  - Sie schneiden sich nie
  - Sie sind stets geschlossene Linien
- - die Dichte der [[#Feldlinien]] entspricht der Stärke des Magnetfeldes (höhere Dichte)
+ - die Dichte der [[#Feldlinien]] entspricht der Stärke des Magnetfeldes (höhere Dichte -> stärkeres Magnetfeld)
+ - Sie verlaufen immer im Außenraum eines Magneten von dessen Nord- zum Südpol (im inneren des Magneten genau andersrum)
