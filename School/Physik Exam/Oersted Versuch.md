@@ -24,6 +24,5 @@ Daumen - Stromrichtung
 Richtung der gekrümmten Finger -> Magnetfeldrichtung
 
 
-
-
+# Induktion
 
