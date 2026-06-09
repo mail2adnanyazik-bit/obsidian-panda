@@ -1,12 +1,12 @@
 
-- [ ] Make schematic
-- [ ] Make PCB
-- [ ] Make Case bottom
-- [ ] Make PCB 3D Model with Components and their 3D Models
-- [ ] Add Plate/Top of case
-- [ ] USB Hole
-- [ ] Polish case and presentation
-- [ ] Code Firmware
-- [ ] Make Folder for repo
+- [x] Make schematic
+- [x] Make PCB
+- [x] Make Case bottom
+- [x] Make PCB 3D Model with Components and their 3D Models
+- [x] Add Plate/Top of case
+- [x] USB Hole
+- [x] Polish case and presentation
+- [x] Code Firmware
+- [x] Make Folder for repo
 - [ ] Push to github repo 
 - [ ] Make demo link (--> How ?)
