@@ -1,4 +1,4 @@
-[[TODO]] [[End product (Video)]]
+[[School/French Project/TODO]] [[End product (Video)]]
 
 
 - [x] Choose editing software (most likely Da Vinci Resolve)
