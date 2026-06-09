@@ -35,4 +35,4 @@ Als Beispiel : wenn in eine Spule ein Stabmagnet eingeführt wird
 
 ![](https://www.leifiphysik.de/sites/default/files/2021/01/image/Regel_von_Lenz_Fall_1.svg)
 
-Dann entsteht durch das stören eines [[Dauermagnet#Magnetfelder]](es) eine [[#Lorentzkraft]], die dann [[#Induktion]] erzeugt. 
+Dann entsteht durch das stören eines [[Dauermagnet#Magnetfelder]](es) eine [[#Lorentzkraft]], die dann [[#Induktion]] erzeugt. Dann fließt Strom anhand der [[#Drei Finger Regel]] und der [[#Rechte Hand Regel]] in die Richtung der Spule.
