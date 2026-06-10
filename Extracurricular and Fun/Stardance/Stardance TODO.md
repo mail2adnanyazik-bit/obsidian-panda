@@ -1,6 +1,5 @@
 - [ ] Code around 15 mins -> Make a devlog 
 - [ ] Make Slack channel link for Pandabot
-- [ ] add dad joke randomizer
 
 ## As soon as rating is open :
 
