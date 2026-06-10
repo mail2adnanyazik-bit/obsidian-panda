@@ -8,5 +8,5 @@
 - [x] Polish case and presentation
 - [x] Code Firmware
 - [x] Make Folder for repo
-- [ ] Push to github repo 
-- [ ] Make demo link (--> How ?)
+- [x] Push to github repo 
+- [x] Make demo link (--> How ?)
