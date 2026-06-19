@@ -1,0 +1,3 @@
+
+- [ ] UAE power adapter
+- [ ] 
