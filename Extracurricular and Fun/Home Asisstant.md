@@ -4,4 +4,4 @@
   - The Humidity sensors
   - At least one bulb
 Problem to fix :
- - [ ] Fix Matter Protocol dongle
+ - [x] Fix Matter Protocol dongle

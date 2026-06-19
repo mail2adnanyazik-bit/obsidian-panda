@@ -8,7 +8,7 @@
 - [x] Start Presentation
 - [x] Edit first half
 - [x] Decide on if I'm changing first half order and music
-- [ ] Start editing second half
-- [ ] Finish editing second half
-- [ ] Polish
-- [ ] Upload End Product, [[Presentation]] and Dokumentationsblatt to Lernraum
+- [x] Start editing second half
+- [x] Finish editing second half
+- [x] Polish
+- [x] Upload End Product, [[Presentation]] and Dokumentationsblatt to Lernraum

@@ -1,0 +1,12 @@
+
+- [x] Make schematic
+- [x] Make PCB
+- [x] Make Case bottom
+- [x] Make PCB 3D Model with Components and their 3D Models
+- [x] Add Plate/Top of case
+- [x] USB Hole
+- [x] Polish case and presentation
+- [x] Code Firmware
+- [x] Make Folder for repo
+- [x] Push to github repo 
+- [x] Make demo link (--> How ?)
