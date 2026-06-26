@@ -14,7 +14,17 @@ Strings(*Text*) : "hello world"
 Char(*Character*) : 'a'
 Boolean(*Bool*) : True/False
 
+### Mathematical operators :
 
++, -, * , /, %
+
+--
+### Logic operators :
+
+== : Checks equal 
+!=  : Checks not equal
+&& : AND
+or : OR
 ## Syntax 
 
 	
