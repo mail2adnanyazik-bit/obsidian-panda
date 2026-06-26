@@ -12,6 +12,9 @@ Int (*Integer*) : 45, 32 , 1 , 0
 Float(*Decimal*) : 3.0 , 5.32
 Strings(*Text*) : "hello world"
 Char(*Character*) : 'a'
+Boolean(*Bool*) : True/False
+
+
 ## Syntax 
 
 	
