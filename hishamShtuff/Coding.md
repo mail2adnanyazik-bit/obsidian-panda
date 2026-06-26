@@ -32,4 +32,5 @@ Boolean(*Bool*) : True/False
 or : OR
 ## Syntax 
 
-	
+### If :
+
