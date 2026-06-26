@@ -18,7 +18,12 @@ Boolean(*Bool*) : True/False
 
 +, -, * , /, %
 
---
+---------------------------------
+
+<, >, >=, <=, 
+
+-------
+
 ### Logic operators :
 
 == : Checks equal 
